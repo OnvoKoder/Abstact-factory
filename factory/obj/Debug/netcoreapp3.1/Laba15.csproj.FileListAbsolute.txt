@@ -1,0 +1,40 @@
+C:\Users\stud\source\repos\Дфиф15\obj\Debug\netcoreapp3.1\Laba15.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\Дфиф15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\Дфиф15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfo.cs
+C:\Users\stud\source\repos\Дфиф15\obj\Debug\netcoreapp3.1\Laba15.csproj.CoreCompileInputs.cache
+C:\Users\worst\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.csprojAssemblyReference.cache
+C:\Users\worst\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfoInputs.cache
+C:\Users\worst\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfo.cs
+C:\Users\worst\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.csproj.CoreCompileInputs.cache
+C:\Users\zenit\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.csprojAssemblyReference.cache
+C:\Users\zenit\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfoInputs.cache
+C:\Users\zenit\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfo.cs
+C:\Users\zenit\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.csproj.CoreCompileInputs.cache
+C:\Users\zenit\Desktop\Laba15\bin\Debug\netcoreapp3.1\Laba15.exe
+C:\Users\zenit\Desktop\Laba15\bin\Debug\netcoreapp3.1\Laba15.deps.json
+C:\Users\zenit\Desktop\Laba15\bin\Debug\netcoreapp3.1\Laba15.runtimeconfig.json
+C:\Users\zenit\Desktop\Laba15\bin\Debug\netcoreapp3.1\Laba15.runtimeconfig.dev.json
+C:\Users\zenit\Desktop\Laba15\bin\Debug\netcoreapp3.1\Laba15.dll
+C:\Users\zenit\Desktop\Laba15\bin\Debug\netcoreapp3.1\Laba15.pdb
+C:\Users\zenit\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.dll
+C:\Users\zenit\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.pdb
+C:\Users\zenit\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.genruntimeconfig.cache
+C:\Users\stud\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfo.cs
+C:\Users\stud\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.dll
+C:\Users\stud\Desktop\Laba15\obj\Debug\netcoreapp3.1\Laba15.pdb
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\obj\Debug\netcoreapp3.1\Laba15.csprojAssemblyReference.cache
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfoInputs.cache
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\obj\Debug\netcoreapp3.1\Laba15.AssemblyInfo.cs
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\obj\Debug\netcoreapp3.1\Laba15.csproj.CoreCompileInputs.cache
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\obj\Debug\netcoreapp3.1\Laba15.dll
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\obj\Debug\netcoreapp3.1\Laba15.pdb
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\bin\Debug\netcoreapp3.1\Laba15.exe
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\bin\Debug\netcoreapp3.1\Laba15.deps.json
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\bin\Debug\netcoreapp3.1\Laba15.runtimeconfig.json
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\bin\Debug\netcoreapp3.1\Laba15.runtimeconfig.dev.json
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\bin\Debug\netcoreapp3.1\Laba15.dll
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\bin\Debug\netcoreapp3.1\Laba15.pdb
+C:\Users\kola2\OneDrive\Рабочий стол\Laba15\obj\Debug\netcoreapp3.1\Laba15.genruntimeconfig.cache
